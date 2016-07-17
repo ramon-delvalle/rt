@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ramon-delvalle/rt/issues"
   },
-  "homepage": "https://github.com/ramon-delvalle/rt#readme"
+  "homepage": "https://github.com/ramon-delvalle/rt#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "gulp-pug": "^3.0.3",
+    "gulp-typescript": "^2.13.6"
+  }
 }
